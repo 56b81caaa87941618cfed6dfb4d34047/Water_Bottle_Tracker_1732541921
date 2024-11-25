@@ -49,5 +49,15 @@
         "source": "smart_contract_assistant",
         "content": "To generate a frontend for the Ethereum smart contract at address 0xA434D495249abE33E031Fe71a969B81f3c07950D, I need to know the specific functionalities and interactions you want to include. Could you provide more details?",
         "metadata": {}
+    },
+    {
+        "id": "a0257c9c-e31f-43cf-a1cb-466aea7a3d93",
+        "timestamp": "2024-11-25T15:18:00.719880Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "you will get the functionalities from the abi",
+        "metadata": {
+            "component_id": "Hero1732541924"
+        }
     }
 ]
