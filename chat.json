@@ -59,5 +59,20 @@
         "metadata": {
             "component_id": "Hero1732541924"
         }
+    },
+    {
+        "id": "1eaed5e3-f091-419b-b48e-7c32ccb55597",
+        "timestamp": "2024-11-25T15:18:06.649030Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_phzUHTvYDwfhaWpaI3rEYWPQ",
+            "function": {
+                "arguments": "{\"component_id\":\"Hero1732541924\",\"sc_address\":\"0xA434D495249abE33E031Fe71a969B81f3c07950D\",\"chain_id\":\"ETHEREUM\",\"change_description\":\"Generate frontend based on ABI\",\"acknowledgement_message\":\"Okay, I'm editing the component to interact with the smart contract at 0xA434D495249abE33E031Fe71a969B81f3c07950D...\"}",
+                "name": "EditSmartContractFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
